@@ -2,8 +2,8 @@
 
 ## RPS
 
-<img src="" />
+<img src="https://github.com/xNoJustice/mini-games-js/blob/7ee7c9231059fb0770123520342e9fe969acd057/rps.gif" />
 
-## TicTacToe
+## X0X/TicTacToe
 
-<img src="" />
+<img src="https://github.com/xNoJustice/mini-games-js/blob/7ee7c9231059fb0770123520342e9fe969acd057/tictactoe.gif" />
